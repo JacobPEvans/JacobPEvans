@@ -96,8 +96,8 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1.  Assigned issue [#65](https://github.com/JacobPEvans/ai-assistant-instructions/issues/65) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-2.  Unassigned issue [#65](https://github.com/JacobPEvans/ai-assistant-instructions/issues/65) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+1. 💪 Opened PR [#72](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+2. ❌ Merged PR [#71](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
 3.  Assigned issue [#65](https://github.com/JacobPEvans/ai-assistant-instructions/issues/65) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 4.  Unassigned issue [#65](https://github.com/JacobPEvans/ai-assistant-instructions/issues/65) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 5.  Assigned issue [#65](https://github.com/JacobPEvans/ai-assistant-instructions/issues/65) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
